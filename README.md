@@ -1,4 +1,4 @@
-# Sorting_Visualizer
+# Sorting Visualizer
 
 A website that visualizes the working of different Sorting Algorithms and compares their performances.
 
